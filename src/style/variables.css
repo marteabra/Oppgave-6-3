@@ -5,5 +5,8 @@
 
 	--font-family: 'Roboto Mono', monospace;
 	--font-size-big: 30px;
+	--font-size-medium: 25px;
 	--font-size-small: 20px;
+	--font-size-big-mobile: 24px;
+	--font-size-small-mobile: 14px;
 }
