@@ -6,12 +6,14 @@
   "scripts": {
     "dev": "vite --mode development",
     "build": "vite build --mode production",
-	 "preview": "vite preview --host"
+    "preview": "vite preview --host"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "apexcharts": "^3.33.2",
     "vue": "^3.2.21",
+    "vue-apexcharts": "^1.6.2",
     "vue-router": "^4.0.12",
     "vuex": "^4.0.2"
   },

@@ -1,7 +1,9 @@
 :root {
-	--background: white;
-	--foreground: black;
-	
-	--font-family: "Arial";
-	--font-size: 40px;
+	--background: #404040;
+	--foreground: #E2DE70;
+	--buttons-color: #8E8E8E;
+
+	--font-family: 'Roboto Mono', monospace;
+	--font-size-big: 30px;
+	--font-size-small: 20px;
 }
